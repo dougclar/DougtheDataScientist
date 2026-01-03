@@ -1,9 +1,9 @@
 # DougtheDataScientist
 Data science portfolio focused on financial analysis, risk, and decision-making using Python, SQL, and applied machine learning.
-# Data Science Portfolio – Consulting & Finance
+# Data Science Portfolio – Finance
 
-This repository contains a curated set of data science projects focused on
-consulting and financial analytics. The emphasis is on clear problem
+This repository contains a curated set of data science projects focused on 
+financial analytics. The emphasis is on clear problem
 definition, robust analysis, and business-ready insights.
 
 ## Skills Demonstrated
@@ -19,12 +19,12 @@ definition, robust analysis, and business-ready insights.
 Exploratory analysis of real-world financial data to identify key trends,
 drivers, and risks relevant to decision-makers.
 
-### 2. Client-Style SQL Analysis
-A consulting-style engagement analysing revenue drivers and performance
+### 2. SQL Analysis
+An engagement analysing revenue drivers and performance
 metrics using SQL and Python.
 
 ### 3. Predictive Modelling for Business Decisions
 A machine learning project using explainable models to support a practical
-business decision (e.g. risk or churn).
+business decision.
 
 Each project includes a clear executive summary and recommendations.
