@@ -1,0 +1,29 @@
+# Foundations_Financial_Analysis
+
+## Business Question
+What problem is being solved? Why does it matter to a client or decision-maker?
+
+## Dataset
+- Source:
+- Size:
+- Key variables:
+
+## Approach
+1. Data cleaning and preparation
+2. Exploratory data analysis
+3. Key metrics and trends
+4. (If applicable) Modelling approach
+
+## Key Insights
+- Insight 1 (business-relevant)
+- Insight 2
+- Insight 3
+
+## Recommendation
+What should the business do differently based on this analysis?
+
+## Tools Used
+- Python
+- SQL
+- Pandas
+- Matplotlib
