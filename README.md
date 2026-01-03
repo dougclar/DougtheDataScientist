@@ -20,7 +20,7 @@ Exploratory analysis of real-world financial data to identify key trends,
 drivers, and risks relevant to decision-makers.
 
 ### 2. SQL Analysis
-An engagement analysing revenue drivers and performance
+An engagement analysing risk drivers and KRI
 metrics using SQL and Python.
 
 ### 3. Predictive Modelling for Business Decisions
